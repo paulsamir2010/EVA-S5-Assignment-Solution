@@ -81,7 +81,7 @@ Target:
 Results:
 •	Parameters: 9990
 •	Best Training Accuracy: 98.6
-•	Best Test Accuracy: 91
+•	Best Test Accuracy: 99.1
 
 Analysis:
 •	Model is not overfitting. 
